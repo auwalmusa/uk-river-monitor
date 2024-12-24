@@ -21,7 +21,7 @@ A real-time dashboard monitoring water levels and quality parameters for UK rive
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/uk-river-monitor
+git clone https://github.com/auwalmusa/uk-river-monitor
 cd uk-river-monitor
 npm install
 npm run dev
