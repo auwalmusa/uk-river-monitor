@@ -23,7 +23,7 @@ git clone https://github.com/auwalmusa/uk-river-monitor
 cd uk-river-monitor
 npm install
 npm run dev
-\`\`\`
+```
 
 ## API Documentation
 - [Flood Monitoring API](https://environment.data.gov.uk/flood-monitoring/doc/reference)
