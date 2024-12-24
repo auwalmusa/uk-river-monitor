@@ -18,7 +18,7 @@ A real-time dashboard monitoring water levels and quality parameters for UK rive
 [View Live Demo](https://uk-river-monitor.netlify.app)
 
 ## Setup
-\`\`\`bash
+```bash
 git clone https://github.com/auwalmusa/uk-river-monitor
 cd uk-river-monitor
 npm install
