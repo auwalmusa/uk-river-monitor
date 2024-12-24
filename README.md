@@ -1,5 +1,4 @@
-# Create README file
-echo "# UK River Monitoring Dashboard
+# UK River Monitoring Dashboard
 
 A real-time dashboard monitoring water levels and quality parameters for UK rivers using Environment Agency APIs.
 
